@@ -1,3 +1,3 @@
-resource "scaffolding_example" "example" {
+resource "scaffolding_example" "change" {
   configurable_attribute = "some-value"
 }
